@@ -21,5 +21,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Click me!" />
+    <TextView
+        android:id="@+id/txtOther"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yo mang"
+        android:textSize="32sp"
+        />
+    <ImageView
+        android:id="@+id/imgCat"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/android_maneki"
+        />
 
 </LinearLayout>
